@@ -1,0 +1,13 @@
+a=int(input("Podaj wartosc zmiennej a: "))
+
+b=int(input("Podaj wartosc zmiennej b: "))
+print("Wynik dodawania to: ")
+print(a + b)
+print("Wynik odejmowania to: ")
+print(a - b)
+print("Wynik mnozenia to: ")
+print(a * b)
+print("Wynik dzielenia to: ")
+print(a / b)
+print("Wynik potegowania to: ")
+print(a ** b)
