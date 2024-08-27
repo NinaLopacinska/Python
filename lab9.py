@@ -67,3 +67,5 @@ if __name__ == '__main__':
     zad4(nazwa_pliku)
     for x in zad4(nazwa_pliku):
         print(x)
+
+#poprawione
